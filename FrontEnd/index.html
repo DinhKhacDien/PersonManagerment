@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Management Person</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <input type="text" id="search-input" placeholder="Nhập họ tên, số điện thoại hoặc email">
+        <button class="add-btn" onclick="showAddForm()">Thêm</button>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>STT</th>
+                    <th>Họ và tên</th>
+                    <th>Số điện thoại, Email, Vai trò, Địa chỉ</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody id="person-table">
+            </tbody>
+        </table>
+
+        <button class="add-person-btn" onclick="showAddForm()">Thêm</button>
+
+        <div class="form-container" id="form-container" style="display:none;">
+            <form id="person-form">
+                <label>Họ và tên:</label>
+                <input type="text" id="name">
+                
+                <label>Số điện thoại:</label>
+                <input type="text" id="phone">
+
+                <label>Vai trò:</label>
+                <select id="role">
+                    <option value="admin">Admin</option>
+                    <option value="user">User</option>
+                </select>
+
+                <button type="button" class="save-btn" onclick="savePerson()">Lưu</button>
+            </form>
+        </div>
+
+        <div id="delete-confirmation" style="display:none;">
+            <p>Bạn có muốn xóa <strong id="delete-person-name"></strong> không?</p>
+            <button class="delete-confirm-btn" onclick="deletePerson()">Xóa</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|e:\\intern_fpt\\code\\btaplaydiem\\backend\\backendapp\\backendapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B5BD44-6845-4060-AC2F-12695C74FB6C}|BackEndApp\\BackEndApp.csproj|solutionrelative:backendapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1488450865:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1407637382:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1302581266:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1475969476:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Models\\Student.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Student.cs",
+              "RelativeToolTip": "BackEndApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:23:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Models\\Professor.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Professor.cs",
+              "RelativeToolTip": "BackEndApp\\Models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:23:31.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Models\\Address.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Address.cs",
+              "RelativeToolTip": "BackEndApp\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:23:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Models\\Person.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\Person.cs",
+              "RelativeToolTip": "BackEndApp\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:23:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Program.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Program.cs",
+              "RelativeToolTip": "BackEndApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:17:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndApp\\appsettings.json",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\appsettings.json",
+              "RelativeToolTip": "BackEndApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T16:16:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackEndApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:15:49.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "BackEndApp\\Controllers\\PersonController.cs",
+              "ToolTip": "E:\\Intern_FPT\\Code\\BtapLayDiem\\BackEnd\\BackEndApp\\BackEndApp\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "BackEndApp\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:18:32.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 549,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
